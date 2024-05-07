@@ -1,0 +1,21 @@
+{
+    "name": "haqpl/<s>repositoryname",
+    "description": "<s>A description of your package",
+    "type": "library", // This could be project, library, metapackage, etc.
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "YourNamespace\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your.email@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
