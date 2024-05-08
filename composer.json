@@ -1,7 +1,7 @@
 {
-    "name": "yourusername/repositoryname",
+    "name": "ebebebebe/repositoryname",
     "description": "A description of your package",
-    "type": "library", // This could be project, library, metapackage, etc.
+    "type": "library",
     "require": {
         "php": "^7.4|^8.0"
     },
@@ -12,8 +12,8 @@
     },
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your.email@example.com"
+            "name": "<s>Your Name",
+            "email": "javascript:your.email@example.com"
         }
     ],
     "minimum-stability": "dev",
