@@ -1,5 +1,5 @@
 {
-    "name": "haqpl/<s>repositoryname",
+    "name": "haqpl/repositoryname",
     "description": "<s>A description of your package",
     "type": "library",
     "require": {
