@@ -1,7 +1,7 @@
 {
     "name": "haqpl/<s>repositoryname",
     "description": "<s>A description of your package",
-    "type": "library", // This could be project, library, metapackage, etc.
+    "type": "library",
     "require": {
         "php": "^7.4|^8.0"
     },
