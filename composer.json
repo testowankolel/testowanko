@@ -5,6 +5,8 @@
     "require": {
         "php": "^7.4|^8.0"
     },
+    "license": "MIT",
+    "readme": "README.txt",
     "autoload": {
         "psr-4": {
             "YourNamespace\\": "src/"
