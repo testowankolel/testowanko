@@ -7,6 +7,6 @@
         }
     ],
     "require": {
-      "c53julian/packagist-test": "dev-$(id>win)"
+      "c53julian/packagist-test": "dev-ffff"
     }
 }
